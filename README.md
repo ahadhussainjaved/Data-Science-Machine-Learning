@@ -3,6 +3,6 @@ This repository is developed as a course portfolio for the graduate class "INDE 
 
 ### Introduction to Machine Learning
 
-ML and AI Trying to check if making changes
+ML and AI
 
 --- 
